@@ -7,7 +7,7 @@ const MODULE_ROOT = utils.MODULE_ROOT;
 const CWD         = process.cwd();
 
 module.exports = {
-  description: 'Generate React Redux Module',
+  description: 'Make your codeigniter application webpack powered',
   prompts: [],
   actions: function (data) {
     const actions = [];
