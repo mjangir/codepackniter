@@ -1,6 +1,6 @@
 {
   "name": "codepackniter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your codeigniter application webpack powered and serve the static contents in a smarter way",
   "main": "index.js",
   "bin": {
