@@ -8,11 +8,11 @@ Make your codeigniter application webpack powered and serve the static contents 
 
 Codepackniter helps you to setup your existing codeigniter application powered by the Javascript world's most powerful tool [WEBPACK](https://webpack.js.org/ "WEBPACK"). Basically it is a small utility helper that integrates [laravel-mix](https://github.com/JeffreyWay/laravel-mix "laravel-mix") (A famous asset management wrapper built around webpack by one of my favorites [Jaffery Way](https://twitter.com/jeffrey_way "Jaffery Way")) behind the scene.
 
-####How To Install:
+### How To Install:
 
 `npm install codepackniter -g`
 
-#### How To Use:
+### How To Use:
 Once you are done with the package installation, go to your existing codeigniter project root and run the following command:
 
 `codepackniter make`
@@ -30,5 +30,5 @@ If you want to add the compiled sass file also, put a link tag in the same layou
 
 To make it more advance, you need to read the documentation for [laravel-mix](https://github.com/JeffreyWay/laravel-mix/tree/master/docs "laravel-mix")
 
-#### Thanks To:
+### Thanks To:
 [Laravel Mix](https://github.com/JeffreyWay/laravel-mix "Laravel Mix")
