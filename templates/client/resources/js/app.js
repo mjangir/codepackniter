@@ -1,1 +1,1 @@
-console.log("appjs jangirsssssss");
+console.info("Application is Webpack Powered now.");

@@ -25,6 +25,7 @@ If you want to add the compiled sass file also, put a link tag in the same layou
 
 `<link rel="stylesheet" href="<?php echo codepackniter("css/app.css") ?>">`
 
+After doing all the above stuff, refresh the application and you should see the text **Application is Webpack Powered now** in browser console.
 
 **Thats it!**
 
