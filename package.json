@@ -1,0 +1,36 @@
+{
+  "name": "codepackniter",
+  "version": "1.0.0",
+  "description": "Make your codeigniter application webpack powered and serve the static contents in a smarter way",
+  "main": "index.js",
+  "bin": {
+    "codepackniter": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjangir/codepackniter.git"
+  },
+  "keywords": [
+    "codeigniter",
+    "webpack",
+    "laravel-mix",
+    "codeigniter",
+    "react"
+  ],
+  "author": "Manish Jangir <mjangir70@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjangir/codepackniter/issues"
+  },
+  "homepage": "https://github.com/mjangir/codepackniter#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cross-spawn": "^6.0.5",
+    "figlet": "^1.2.0",
+    "minimist": "^1.2.0",
+    "node-plop": "^0.15.0"
+  }
+}

@@ -1,0 +1,6 @@
+const mix = require('laravel-mix');
+
+mix.setPublicPath('client/public')
+mix.js('client/resources/js/app.js', 'client/public/js');
+mix.sass('client/resources/sass/app.scss', 'client/public/css/app.css');
+mix.disableNotifications();
